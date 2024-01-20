@@ -23,12 +23,12 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "facebook",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "ca-app-pub-4717046364682563~2824553396",
         "app_open_id": "ca-app-pub-4717046364682563/3179776612",
-        "banner_id": "ca-app-pub-4717046364682563~2824553396",
+        "banner_id": "ca-app-pub-4717046364682563/3717126379",
         "interstitial_id": "ca-app-pub-4717046364682563/1319900030",
         "rewarded_id": "ca-app-pub-4717046364682563/2441410012",
         "native_id": "ca-app-pub-4717046364682563/3562919991"
